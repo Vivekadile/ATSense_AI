@@ -1,0 +1,263 @@
+[
+  {
+    "id": 1,
+    "title": "Strong senior backend match",
+    "resume": "Priya Nair\npriya.nair@example.com | +1 415 555 0110\n\nSummary\nSenior backend engineer with 8 years of experience building high-throughput Python services.\n\nExperience\nStaff Engineer, PayStack (2018 - Present)\n- Designed FastAPI microservices on AWS handling 12k requests/sec\n- Migrated the core ledger from MySQL to PostgreSQL, cut p99 latency by 45%\n- Led a team of 6, owned CI/CD with GitHub Actions and Docker\nBackend Engineer, ShopNow (2016 - 2018)\n- Built REST APIs in Django backed by Redis caching\n\nEducation\nBachelor of Technology in Computer Science\n\nSkills\nPython, FastAPI, Django, PostgreSQL, MySQL, Redis, Docker, Kubernetes, AWS, REST, CI/CD, Git",
+    "job_description": "Senior Backend Engineer\n\nRequirements:\n- 6+ years of experience with Python\n- Deep knowledge of PostgreSQL and REST API design\n- Production experience with Docker and Kubernetes\n- Experience with AWS\n\nPreferred qualifications:\n- FastAPI\n- Experience leading a team is a plus",
+    "expected": {
+      "band": "high",
+      "min_score": 78,
+      "max_score": 100,
+      "must_match_skills": [
+        "python",
+        "postgresql",
+        "docker",
+        "kubernetes",
+        "aws",
+        "rest"
+      ],
+      "must_miss_skills": []
+    }
+  },
+  {
+    "id": 2,
+    "title": "Junior applying to senior role - experience gap",
+    "resume": "Tom Alvarez\ntom.alvarez@example.com | +1 312 555 0199\n\nSummary\nBackend developer with 1 year of experience.\n\nExperience\nJunior Developer, DataHut (2023 - Present)\n- Built internal REST APIs in Python and Flask\n- Wrote unit tests with pytest\n\nEducation\nBachelor of Science in Information Systems\n\nSkills\nPython, Flask, SQL, Git, REST, pytest",
+    "job_description": "Senior Backend Engineer\n\nRequirements:\n- 6+ years of experience with Python\n- PostgreSQL and REST API design\n- Docker and Kubernetes in production\n- AWS experience required",
+    "expected": {
+      "band": "low",
+      "min_score": 32,
+      "max_score": 58,
+      "must_match_skills": [
+        "python",
+        "rest"
+      ],
+      "must_miss_skills": [
+        "docker",
+        "kubernetes",
+        "aws"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "Frontend resume vs frontend role - strong",
+    "resume": "Mia Chen\nmia.chen@example.com | +1 206 555 0143\n\nSummary\nFrontend engineer with 5 years of experience shipping React applications.\n\nExperience\nSenior Frontend Engineer, Brightloom (2020 - Present)\n- Built the design system in React, TypeScript and Tailwind\n- Improved Lighthouse performance score from 62 to 94\n- Migrated legacy Angular screens to Next.js\n\nEducation\nBachelor of Arts in Design\n\nSkills\nJavaScript, TypeScript, React, Next.js, Redux, HTML, CSS, Tailwind, Jest, Git",
+    "job_description": "Frontend Engineer\n\nRequirements:\n- 3+ years of experience with JavaScript and React\n- Strong HTML and CSS fundamentals\n- Experience with TypeScript\n\nPreferred:\n- Next.js\n- Experience with a component library / design system is a plus",
+    "expected": {
+      "band": "high",
+      "min_score": 75,
+      "max_score": 100,
+      "must_match_skills": [
+        "javascript",
+        "react",
+        "typescript",
+        "html",
+        "css"
+      ],
+      "must_miss_skills": []
+    }
+  },
+  {
+    "id": 4,
+    "title": "Backend resume vs frontend role - domain mismatch",
+    "resume": "Raj Patel\nraj.patel@example.com | +1 408 555 0161\n\nSummary\nBackend engineer with 6 years of experience in distributed systems.\n\nExperience\nBackend Engineer, CoreOps (2017 - Present)\n- Built gRPC services in Go and Python\n- Ran Kafka pipelines feeding a Spark batch layer\n- Managed Kubernetes clusters on GCP\n\nEducation\nMaster of Science in Computer Science\n\nSkills\nGo, Python, gRPC, Kafka, Spark, Kubernetes, GCP, PostgreSQL, Docker",
+    "job_description": "Frontend Engineer\n\nRequirements:\n- 3+ years of experience with JavaScript and React\n- Strong HTML, CSS and responsive design\n- Experience with TypeScript and Redux\n\nPreferred:\n- Next.js experience is a plus",
+    "expected": {
+      "band": "low",
+      "min_score": 20,
+      "max_score": 52,
+      "must_match_skills": [],
+      "must_miss_skills": [
+        "javascript",
+        "react",
+        "html",
+        "css",
+        "typescript",
+        "redux"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "title": "Data scientist strong match",
+    "resume": "Elena Duarte\nelena.duarte@example.com | +44 20 7946 1234\n\nSummary\nData scientist with 6 years of experience in machine learning and NLP.\n\nExperience\nSenior Data Scientist, Klarva (2019 - Present)\n- Built NLP models with PyTorch and Hugging Face, improved F1 by 11 points\n- Productionized models with FastAPI and Docker on AWS\n- Analysis and dashboards in pandas, numpy and Tableau\n\nEducation\nPhD in Statistics\n\nSkills\nPython, PyTorch, Hugging Face, NLP, machine learning, deep learning, pandas, numpy, scikit-learn, SQL, Tableau, Docker, AWS",
+    "job_description": "Machine Learning Scientist\n\nRequirements:\n- 4+ years of experience in machine learning\n- Strong Python, pandas and numpy\n- Experience with PyTorch or TensorFlow\n- NLP experience\n- PhD or Master's in a quantitative field\n\nPreferred:\n- Hugging Face\n- Experience deploying models is a plus",
+    "expected": {
+      "band": "high",
+      "min_score": 76,
+      "max_score": 100,
+      "must_match_skills": [
+        "python",
+        "pytorch",
+        "natural language processing",
+        "machine learning",
+        "pandas",
+        "numpy"
+      ],
+      "must_miss_skills": []
+    }
+  },
+  {
+    "id": 6,
+    "title": "Data analyst applying to ML role - partial family credit",
+    "resume": "Sam Okoro\nsam.okoro@example.com | +1 646 555 0177\n\nSummary\nData analyst with 4 years of experience.\n\nExperience\nData Analyst, RetailIQ (2020 - Present)\n- Built SQL models and Power BI dashboards\n- Did exploratory analysis and A/B test readouts in Python and pandas\n- Basic predictive models with scikit-learn\n\nEducation\nBachelor of Science in Economics\n\nSkills\nSQL, Python, pandas, numpy, Power BI, Excel, scikit-learn, machine learning",
+    "job_description": "Machine Learning Engineer\n\nRequirements:\n- 3+ years of experience\n- Strong Python\n- Machine learning fundamentals\n- Experience with TensorFlow\n- SQL\n\nPreferred:\n- Deep learning experience is a plus",
+    "expected": {
+      "min_score": 52,
+      "max_score": 82,
+      "must_match_skills": [
+        "python",
+        "machine learning",
+        "sql"
+      ],
+      "must_miss_skills": []
+    }
+  },
+  {
+    "id": 7,
+    "title": "DevOps strong match",
+    "resume": "Nina Berg\nnina.berg@example.com | +49 30 1234567\n\nSummary\nDevOps engineer with 7 years of experience running cloud infrastructure.\n\nExperience\nSRE, CloudNine (2018 - Present)\n- Managed 40+ Kubernetes clusters on AWS with Terraform\n- Built CI/CD with GitLab CI and Jenkins\n- Monitoring with Prometheus and Grafana, cut incident MTTR by 30%\n\nEducation\nBachelor of Engineering in Computer Science\n\nSkills\nKubernetes, Docker, AWS, Terraform, Ansible, Jenkins, GitLab CI, CI/CD, Linux, Prometheus, Grafana, Bash, Python",
+    "job_description": "DevOps Engineer\n\nRequirements:\n- 5+ years of experience with AWS\n- Kubernetes and Docker in production\n- Infrastructure as code with Terraform\n- CI/CD pipelines\n- Strong Linux\n\nPreferred:\n- Prometheus and Grafana\n- Ansible is a plus",
+    "expected": {
+      "band": "high",
+      "min_score": 82,
+      "max_score": 100,
+      "must_match_skills": [
+        "kubernetes",
+        "docker",
+        "aws",
+        "terraform",
+        "ci/cd",
+        "linux"
+      ],
+      "must_miss_skills": []
+    }
+  },
+  {
+    "id": 8,
+    "title": "Career changer - non-tech resume vs tech role",
+    "resume": "Grace Hill\ngrace.hill@example.com | +1 503 555 0188\n\nSummary\nMarketing manager with 9 years of experience leading campaigns.\n\nExperience\nMarketing Manager, Verde Foods (2015 - Present)\n- Owned brand strategy and a $2M annual budget\n- Managed a team of 5, grew organic traffic 120%\n- Built reporting dashboards in Excel\n\nEducation\nBachelor of Arts in Communications\n\nSkills\nCommunication, leadership, project management, Excel",
+    "job_description": "Software Engineer\n\nRequirements:\n- 3+ years of experience with Python\n- Experience with SQL and REST APIs\n- Familiarity with Docker\n- Computer Science degree or equivalent\n\nPreferred:\n- AWS experience is a plus",
+    "expected": {
+      "band": "low",
+      "min_score": 15,
+      "max_score": 48,
+      "must_match_skills": [],
+      "must_miss_skills": [
+        "python",
+        "sql",
+        "rest",
+        "docker"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "title": "Overqualified - staff engineer vs mid-level role",
+    "resume": "Victor Lindqvist\nvictor.l@example.com | +46 8 123 456\n\nSummary\nStaff software engineer with 12 years of experience across backend and platform.\n\nExperience\nStaff Engineer, Northwind (2016 - Present)\n- Architected event-driven services in Python and Go on AWS\n- Owned PostgreSQL and Kafka infrastructure\n- Mentored 15+ engineers, drove the CI/CD and Docker strategy\n\nEducation\nMaster of Science in Computer Science\n\nSkills\nPython, Go, PostgreSQL, Kafka, AWS, Docker, Kubernetes, REST, CI/CD, microservices, Git",
+    "job_description": "Backend Engineer (Mid-level)\n\nRequirements:\n- 3+ years of experience with Python\n- Experience with PostgreSQL and REST APIs\n- Familiarity with Docker\n\nPreferred:\n- AWS is a plus",
+    "expected": {
+      "band": "high",
+      "min_score": 80,
+      "max_score": 100,
+      "must_match_skills": [
+        "python",
+        "postgresql",
+        "rest",
+        "docker"
+      ],
+      "must_miss_skills": []
+    }
+  },
+  {
+    "id": 10,
+    "title": "Full stack resume vs full stack role - solid",
+    "resume": "Aisha Bello\naisha.bello@example.com | +234 802 555 0100\n\nSummary\nFull stack developer with 4 years of experience.\n\nExperience\nFull Stack Engineer, Paytrail (2021 - Present)\n- Built React and Node.js apps with an Express API and PostgreSQL\n- Added MongoDB for the activity feed\n- Deployed with Docker on AWS, set up GitHub Actions\n\nEducation\nBachelor of Science in Software Engineering\n\nSkills\nJavaScript, TypeScript, React, Node.js, Express, PostgreSQL, MongoDB, REST, Docker, AWS, Git",
+    "job_description": "Full Stack Engineer\n\nRequirements:\n- 3+ years of experience with JavaScript\n- React on the frontend\n- Node.js and Express on the backend\n- Experience with PostgreSQL\n- REST API design\n\nPreferred:\n- TypeScript\n- Docker and AWS are a plus",
+    "expected": {
+      "band": "high",
+      "min_score": 80,
+      "max_score": 100,
+      "must_match_skills": [
+        "javascript",
+        "react",
+        "node.js",
+        "express",
+        "postgresql",
+        "rest"
+      ],
+      "must_miss_skills": []
+    }
+  },
+  {
+    "id": 11,
+    "title": "Missing one hard requirement",
+    "resume": "Derek Shaw\nderek.shaw@example.com | +1 617 555 0134\n\nSummary\nBackend engineer with 5 years of experience.\n\nExperience\nBackend Engineer, Loopr (2019 - Present)\n- Built Django REST services backed by PostgreSQL\n- Containerized services with Docker\n- Set up CI/CD with GitHub Actions\n\nEducation\nBachelor of Technology in Computer Science\n\nSkills\nPython, Django, PostgreSQL, REST, Docker, CI/CD, Git",
+    "job_description": "Backend Engineer\n\nRequirements:\n- 4+ years of experience with Python\n- PostgreSQL and REST APIs\n- Docker in production\n- Kubernetes for orchestration\n\nPreferred:\n- Django is a plus",
+    "expected": {
+      "min_score": 68,
+      "max_score": 92,
+      "must_match_skills": [
+        "python",
+        "postgresql",
+        "rest",
+        "docker"
+      ],
+      "must_miss_skills": [
+        "kubernetes"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "title": "Preferred-only skills present, core requirements missing",
+    "resume": "Lena Vogt\nlena.vogt@example.com | +43 1 234567\n\nSummary\nSoftware engineer with 3 years of experience.\n\nExperience\nSoftware Engineer, Adtrix (2021 - Present)\n- Built internal tools in JavaScript and React\n- Some scripting in Python\n\nEducation\nBachelor of Science in Computer Science\n\nSkills\nJavaScript, React, Python, Git",
+    "job_description": "Data Engineer\n\nRequirements:\n- 3+ years of experience\n- Strong SQL\n- Experience with Spark and Airflow\n- Data warehousing with Snowflake or BigQuery\n\nPreferred:\n- Python is a plus\n- Familiarity with React for internal dashboards is a nice to have",
+    "expected": {
+      "band": "low",
+      "min_score": 25,
+      "max_score": 55,
+      "must_match_skills": [],
+      "must_miss_skills": [
+        "sql",
+        "spark",
+        "airflow"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "title": "No experience section - new grad vs junior role",
+    "resume": "Owen Pearce\nowen.pearce@example.com | +1 720 555 0155\n\nSummary\nRecent computer science graduate.\n\nProjects\n- Built a URL shortener with FastAPI, PostgreSQL and Docker\n- Trained a small image classifier with PyTorch\n\nEducation\nBachelor of Science in Computer Science\n\nSkills\nPython, FastAPI, PostgreSQL, Docker, PyTorch, SQL, Git",
+    "job_description": "Junior Backend Engineer\n\nRequirements:\n- Familiarity with Python\n- Basic SQL\n- Willingness to learn Docker and cloud tooling\n- Computer Science degree or equivalent\n\nPreferred:\n- FastAPI or Flask exposure is a plus",
+    "expected": {
+      "min_score": 55,
+      "max_score": 85,
+      "must_match_skills": [
+        "python",
+        "sql",
+        "docker"
+      ],
+      "must_miss_skills": []
+    }
+  },
+  {
+    "id": 14,
+    "title": "Adjacent ML frameworks - pytorch vs tensorflow requirement",
+    "resume": "Hana Kim\nhana.kim@example.com | +82 2 1234 5678\n\nSummary\nMachine learning engineer with 5 years of experience.\n\nExperience\nML Engineer, Visionary (2019 - Present)\n- Built computer vision models with PyTorch\n- Served models with FastAPI and Docker on GCP\n- Data pipelines in Python and pandas\n\nEducation\nMaster of Science in Artificial Intelligence\n\nSkills\nPython, PyTorch, computer vision, deep learning, machine learning, pandas, numpy, FastAPI, Docker, GCP",
+    "job_description": "Computer Vision Engineer\n\nRequirements:\n- 3+ years of experience in machine learning\n- Strong Python\n- Experience with TensorFlow\n- Computer vision background\n- Deep learning fundamentals\n\nPreferred:\n- Model serving experience is a plus",
+    "expected": {
+      "band": "high",
+      "min_score": 68,
+      "max_score": 95,
+      "must_match_skills": [
+        "python",
+        "computer vision",
+        "deep learning",
+        "machine learning"
+      ],
+      "must_miss_skills": []
+    }
+  }
+]
